@@ -1,0 +1,14 @@
+{
+  "name": "resume-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zvit1/resume-gen.git",
+  "author": "zvit1 <zvit@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lessc style.less style.css"
+  },
+  "devDependencies": {
+    "less": "^2.7.2"
+  }
+}
