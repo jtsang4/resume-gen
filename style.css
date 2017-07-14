@@ -26,3 +26,6 @@ p {
 #app .sidebar {
   width: 300px;
 }
+#app .content {
+  overflow: hidden;
+}
